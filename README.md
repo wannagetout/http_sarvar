@@ -1,1 +1,2 @@
-# http_sarvar
+# HTTP SERVER
+Базовая реализация HTTP сервера
